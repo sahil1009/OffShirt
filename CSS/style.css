@@ -273,7 +273,7 @@ html {
 .card p {
   font-weight: 300;
   font-size: 20px;
-  margin-left: 16px;
+  margin: 10px 0 0 0;
 }
 
 .img2 {
